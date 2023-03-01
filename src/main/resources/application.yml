@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/marleiSilveira/config-repo
+          uri: https://github.com/delivery-api/config-repo
           search-paths: fornecedor
